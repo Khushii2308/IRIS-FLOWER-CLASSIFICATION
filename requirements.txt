@@ -1,0 +1,14 @@
+Required libraries:
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+
+📌 How to Use requirements.txt
+
+To install all dependencies at once, run:
+
+pip install -r requirements.txt
