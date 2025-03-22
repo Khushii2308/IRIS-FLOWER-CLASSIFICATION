@@ -36,7 +36,7 @@ PetalWidth    Cm
 ##  Installation
 1. Clone the repository and install the required dependencies:
 
-git clone https://github.com/yourusername/iris-flower-classification.git
+git clone https://github.com/Khushii2308/IRIS-FLOWER-CLASSIFICATION.git
 
 cd iris-flower-classification
 
